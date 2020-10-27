@@ -18,7 +18,7 @@
 
 ***Contents***
 
-- [Back Up Your Stuff Using Rsync](backup-your-stuff-using-rsync.md)
+- [Back Up Your Stuff Using Rsync](it-the-hard-way/backup-your-stuff-using-rsync.md)
 - [My Bash (and Zsh) Prompt](bash-ps1.md)
 - [Converting Bad Characters On A File System](converting-bad-chars-on-a-filesystem.md)
 - [Cron Job To Start / Restart Service](cronjob-to-start-restart-service.md)
