@@ -1,19 +1,11 @@
----
-id: 8
-title: About
-date: 2020-07-22T18:34:24-06:00
-author: jwinn
-layout: page
-guid: https://kessel/?page_id=8
----
+J. Winn's Blog
+
 This blog is divided into sections. Some sections have to do with thoughts and ideas, while other sections are work resources. Enjoy.
 
-[Learned Philosophies](https://jwinn.getamonkey.com/?tag=learned-philosophies) 
+[Learned Philosophies](learned-philosophies.md)
 
-[IT The Hard Way](https://jwinn.getamonkey.com/?tag=it-the-hard-way)
+[IT The Hard Way](it-the-hard-way.md)
 
-<p class="has-text-align-left">
-  <a href="https://jwinn.getamonkey.com/?tag=it-security">IT Security</a>
-</p>
+    [IT Security](it-security.md)
 
-[Miscellaneous](https://jwinn.getamonkey.com/?tag=miscellaneous)
+[Miscellaneous](miscellaneous.md)
