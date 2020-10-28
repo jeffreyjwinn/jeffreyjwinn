@@ -1,11 +1,3 @@
----
-id: 137
-title: Nextcloud Server File Locks
-date: 2020-07-23T21:43:51-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=137
----
 Manually disable locking state:
 
 <blockquote class="wp-block-quote">
@@ -21,3 +13,5 @@ Permanent solution (if it happens regularly):
     <br />On your own server: Use redis for this feature. It is faster and so far no problems have been reported. You can follow the instructions for memory-caching in the docs: https://docs.nextcloud.org/server/13/admin_manual/configuration_server/caching_configuration.html#id4 2.8k<br /> Shared hosting (others who can’t install redis): You can disable the file locking, edit your configuration file config/config.php:<br /> &#8216;filelocking.enabled&#8217; => false,<br /> However, disabling is not a good solution. You can run into problems when several processes try to write to a file (especially online editors in the web-interface).&#8221;
   </p>
 </blockquote>
+
+[***...Get back***](..)

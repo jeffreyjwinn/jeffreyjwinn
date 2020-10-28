@@ -1,11 +1,3 @@
----
-id: 139
-title: TMUX Cheat Sheet
-date: 2020-07-23T21:44:22-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=139
----
 <pre class="wp-block-code"><code>Commands
 
 $ tmux
@@ -123,3 +115,5 @@ setw -g window-status-current-format
 
 setw -g window-status-separator
 </code></pre>
+
+[***...Get back***](..)

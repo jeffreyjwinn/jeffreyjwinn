@@ -1,11 +1,3 @@
----
-id: 129
-title: Increase size of Firefox, Thunderbird and (probably) most Mozilla products
-date: 2020-07-23T21:27:03-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=129
----
 If you OS changes aren&#8217;t doing the trick for these apps, here is a found nugget.
 
 You have to do this with the (typically) Advanced Config Editor. Search there for _layout.css.devPixelsPerPx_. When you find it:
@@ -15,3 +7,5 @@ You have to do this with the (typically) Advanced Config Editor. Search there fo
     <br /><em>change its value to 1.0 and click OK to save it. This will give you classic 96 dpi fonts. To enlarge that by 10%, double-click and use 1.1 and click OK. And so on. You may want to switch around between windows and tabs to see how it&#8217;s affecting them.</em>
   </p>
 </blockquote>
+
+[***...Get back***](..)

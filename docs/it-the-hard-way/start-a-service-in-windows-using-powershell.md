@@ -1,11 +1,3 @@
----
-id: 419
-title: Start a Service in Windows using Powershell
-date: 2020-09-04T09:25:12-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=419
----
 As you know, the _OpenSSH_ service for _Windows_ under _Windows 10_ does not start automatically. Not sure why.
 
 To fix that, and with help from the Internet, I wrote this simple _Powershell_ script:
@@ -18,3 +10,5 @@ To fix that, and with help from the Internet, I wrote this simple _Powershell_ s
 objShell.run("powershell -Executionpolicy Bypass -nologo -noninteractive -file C:\Users\jeffr\bin\StartService-sshd.ps1")</pre>
 
 &#8230;arguably, this is messy, but it works.
+
+[***...Get back***](..)

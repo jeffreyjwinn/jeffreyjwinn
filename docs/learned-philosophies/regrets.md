@@ -1,12 +1,4 @@
----
-id: 60
-title: Regrets
-date: 2020-07-23T03:01:40-06:00
-author: jwinn
-layout: page
-guid: https://kessel/?page_id=60
----
-<!--StartFragment-->
+# Regrets
 
 Live long enough and there are two things you will certainly acquire; enemies and regrets.  Perhaps add also debt.
 
@@ -31,3 +23,5 @@ In the end, without having gone to college, I will perhaps never know what diffe
  
 
 I only have a few significant regrets.&nbsp; I hold on to those regrets as some of the most important lessons I&#8217;ve ever learned.&nbsp; So, in that way at least, they can serve some purpose.
+
+[***...Get back***](..)

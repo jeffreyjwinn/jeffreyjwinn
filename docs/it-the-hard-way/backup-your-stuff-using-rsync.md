@@ -1,11 +1,3 @@
----
-id: 261
-title: Backup Your Stuff Using RSYNC
-date: 2020-07-31T18:59:03-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=261
----
 Do you want a good backup of your stuff? Of course you do!
 
 I use this script that utilized _rsync_ to backup my entire data storage (in a raw, file-based format) to a separate disk and server:

@@ -1,11 +1,3 @@
----
-id: 193
-title: SSH to WSL (v1)
-date: 2020-07-29T15:53:45-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=193
----
 This was a bugger to fix. Here&#8217;s what I did. I run WSL v1 as v2 interferes with my much-loved Virtualbox use. I can&#8217;t run Docker, but as previously mentioned, at this time Docker on Windows sucks.
 
 First, as root, install OpenSSH Server:
@@ -208,3 +200,5 @@ One confusion you might have is if you can scan your host and see the open port,
 <pre class="wp-block-code"><code>ssh_exchange_identification: read: Connection reset by peer</code></pre>
 
 From what I can tell, this is caused by never fully connecting to the SSH server on WSL, likely because the traffic is not being routed correctly but the port is open. That&#8217;s what the _netsh_ command referenced above does.
+
+[***...Get back***](..)

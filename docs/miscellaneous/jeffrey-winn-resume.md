@@ -77,3 +77,5 @@ Restructured existing staff and recruited new talent with a charter of deliverin
 > "During my three years at nCUBE Jeff designed and managed all corporate system and network infrastructure. During this time, the corporate and engineering networks ran smoothly due to his diligence, expertise, and attention to performing the latest upgrades and configurations recommended by the vendors. In addition, Jeff went outside-the-box on many occasions to provide expert (and patient) training to those of us who needed to implement and manage complex subnets within the engineering organization. On more than one occasion Jeff volunteered his time and effort to keep the production, test, and integration train rolling smoothly down the tracks; this resulted in greater efficiency, shorter time-to-market and a much better trained workforce within the engineering IT community. I would recommend Jeff for any IT/telephony position and would absolutely work with or for him again."
 
   ***- Kent Helm***, *worked with Jeffrey at nCUBE*
+
+[***...Get back***](..)

@@ -1,11 +1,3 @@
----
-id: 135
-title: 'Favorite UN*X Cheat Sheet'
-date: 2020-07-23T21:42:56-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=135
----
 <pre class="wp-block-code"><code>RPM:
 
      List all installed packages by size:
@@ -285,3 +277,6 @@ Tabs
 - :tabonly or :tabo - close all tabs except for the current one
 - :tabdo command - run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
 </code></pre>
+
+
+[***...Get back***](..)

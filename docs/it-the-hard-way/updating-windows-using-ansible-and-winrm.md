@@ -1,11 +1,3 @@
----
-id: 465
-title: Updating Windows using Ansible and winrm
-date: 2020-10-23T16:33:49-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=465
----
 It is possible to use _Anisble_ to update or interact with Windows.
 
 To do this, you first need to install and configure _winrm_. This guide will not cover how to do that.
@@ -54,3 +46,5 @@ Once you have verified that _winrm_ is working, you can use a playbook like this
        msg: "{{ sqs_list.stdout_lines|list }}"</pre>
 
 &#8230;more to come on using this excellent, if very basic, administration tool. I like it as it makes sense to a UNIX-inclined administrator.
+
+[***...Get back***](..)

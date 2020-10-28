@@ -1,11 +1,3 @@
----
-id: 456
-title: Using Ansible to Update Linux Hosts
-date: 2020-10-21T15:30:40-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=456
----
 With much help from others on the Internet, I&#8217;ve set up a script to automate the updating of my important Linux hosts.
 
 This is run from my Windows 10 WSL 2 instance using Kali-Linux.
@@ -94,3 +86,5 @@ Some notes on this file and its structure:
 _Ansible_ can be used for a dizzying array of things. Once it is set up and you understand it (including the power involved, especially the old UNIX no-no running as _root_), _Ansible_ is a great way to deploy packages, check system information and do just about anything you can think of using _SSH_ and some others.
 
 I have this script in my _crontab_. We will see how that works out.
+
+[***...Get back***](..)

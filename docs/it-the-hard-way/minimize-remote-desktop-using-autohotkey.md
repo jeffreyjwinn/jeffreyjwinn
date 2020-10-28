@@ -1,11 +1,3 @@
----
-id: 425
-title: Minimize Remote Desktop using AutoHotkey
-date: 2020-09-05T09:43:39-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=425
----
 I use AutoHotkey as my keyboard shortcut app under Windows 10. I&#8217;ve been looking for a way to minimize the normally full-screen session with a key combination.
 
 Then I ran across this gem, which works great!:
@@ -18,3 +10,5 @@ Then I ran across this gem, which works great!:
     ;MsgBox, Received Remote Desktop minimize hotkey    ; uncomment for debugging
   return
 #IfWinActive</pre>
+
+[***...Get back***](..)

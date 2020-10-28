@@ -1,11 +1,3 @@
----
-id: 222
-title: Setting the Title Bar in Terminator (and related)
-date: 2020-07-30T17:48:21-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=222
----
 I love Terminator for my terminal solution. I use it on all distros, including Windows under WSL. I like Tilix on UN*X, ConEMU on Windows and of course TMUX whenever needed, but nothing works as well for me as Terminator. It _should_ also work with other xterm-like terminals.
 
 Of course, there are a few issues. One of those is that the title bar on the active terminal window sets itself by some elven witchcraft and never comes back to make any sense.
@@ -39,3 +31,5 @@ function su()
    # revert the window title after the su command
    title $USER@$HOST
 }</code></pre>
+
+[***...Get back***](..)

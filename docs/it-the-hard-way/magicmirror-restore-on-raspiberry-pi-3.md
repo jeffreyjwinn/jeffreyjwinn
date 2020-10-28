@@ -1,11 +1,3 @@
----
-id: 385
-title: MagicMirror Restore on Raspiberry Pi 3
-date: 2020-08-20T16:21:26-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=385
----
 Recently (today), I discovered my little Raspberry Pi 3 that I use as a weather forecast display next to my office/lab/sanctuary had sprung a bad MicroSD (storage for the device). So, I had to replace it.
 
 First, I imaged a 32G MicroSD card with the latest Raspian OS, then I turned to a recent backup I had made of my MagicMirror install.
@@ -23,3 +15,5 @@ sudo npm install</pre>
 <pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">npm rebuild</pre>
 
 &#8230;and all is well!
+
+[***...Get back***](..)

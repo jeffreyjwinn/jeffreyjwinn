@@ -1,11 +1,3 @@
----
-id: 92
-title: Docker
-date: 2020-07-23T04:01:53-06:00
-author: jwinn
-layout: page
-guid: https://kessel/?page_id=92
----
 From my experience, Docker (which is great, in the right hands) on Windows is not usable in the real world. You can&#8217;t really expose ports, and there is no loopback IP. So, I took to installing my main Docker on my CentOS server. Some working notes and examples of how I&#8217;ve used it so far&#8230;
 
 
@@ -184,3 +176,5 @@ echo "Sending to Nextcloud backup area via SSH..."
 # Now, completely without checking to see if it made it, delete the original!
 echo "Removing original file..."
 /usr/bin/rm "nginx-backup-$datenow.tar.gz"</code></pre>
+
+[***...Get back***](..)

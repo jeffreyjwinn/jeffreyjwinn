@@ -1,11 +1,3 @@
----
-id: 133
-title: Bash PS1
-date: 2020-07-23T21:33:17-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=133
----
 Gleefully stolen from Parrot OS. Put this in your _~/.bashrc_:
 
 <pre class="wp-block-code"><code># uncomment for a colored prompt, if the terminal has the capability; turned

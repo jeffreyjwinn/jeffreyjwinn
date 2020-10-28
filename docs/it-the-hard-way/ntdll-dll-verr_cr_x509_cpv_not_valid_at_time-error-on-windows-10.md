@@ -1,11 +1,3 @@
----
-id: 303
-title: 'ntdll.dll: VERR_CR_X509_CPV_NOT_VALID_AT_TIME Error on Windows 10'
-date: 2020-08-03T17:10:34-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=303
----
 I am on the &#8220;insider build&#8221; program. Until a bit ago, I was on the &#8220;beta&#8221; channel, not the &#8220;dev&#8221; or &#8220;Pre Release&#8221; channels.
 
 Curiously, while on the beta channel, the certificates associated with some of my needed files (specifically here, _ntdll.dll_) expired. That was demonstrated, for me, by not being able to run any Virtualbox Virtual Machines (VM), something I very much need to do.
@@ -49,3 +41,5 @@ set path=c:\Windows\System32;c:\Users\jeffr\AppData\Local\Microsoft\WindowsApps
 pengwin run if [ -z \"$(pidof terminator)\" ]; then "export DISPLAY=192.168.5.50:0.0; terminator;  fi;"</code></pre>
 
 &#8230;and everything is fine again. For now.
+
+[***...Get back***](..)

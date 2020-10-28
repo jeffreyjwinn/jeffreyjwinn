@@ -51,3 +51,5 @@ The key was to submit a SQL injection in the username field with the password be
 <pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">SELECT password FROM admins WHERE username = 'UNION SELECT "123" AS password from admins WHERE '1' = '1'</pre>
 
 &#8230;once that was done, a new page show up titled &#8216;Private Page&#8217;. That&#8217;s where I found the first flag.
+
+[***...Get back***](..)

@@ -1,11 +1,3 @@
----
-id: 182
-title: Cronjob to start/restart service
-date: 2020-07-28T17:08:36-06:00
-author: jwinn
-layout: page
-guid: https://jwinn.getamonkey.com/?page_id=182
----
 I&#8217;ve used this for Windows Subsystem for Linux (WSL). It could probably be used for Docker as well (as they suffer some of the same restrictions).
 
 The script, in this case for SSH:
