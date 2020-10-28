@@ -15,6 +15,6 @@
 
 <br>
 
-- [Learned Philosophies](learned-philosophies/regrets.md)
+- [Regrets](learned-philosophies/regrets.md)
 
 [***...Get back***](..)
