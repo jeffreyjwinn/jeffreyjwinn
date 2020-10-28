@@ -1,12 +1,16 @@
-# IT The Hard Way
+# IT, The Hard Way
 
-### This is a place to log my various random learning in pursing IT/Info Sec/Cyber Security/etc.
+### This is a place to log my various random learnings in pursing IT in general.
 
+<br>
 
 ### Very little that I post here is unique to me and almost all of it depends on the hard work of others. Still, I do try to, where appropriate, walk through my learning curve. That may help you.
 
+<br>
 
 ### Not much of what I post here is linear or complete.
+
+<br>
 
 ### All of what I post here reflects my own experiences and my own learning process.  Your mileage *will* vary.
 
