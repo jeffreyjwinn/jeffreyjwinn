@@ -13,4 +13,8 @@ Have a ***strong***, *italic* day with a nice:
 
 `code`
 
+...and how about a link?
+
+[The Onion](https://theonion.com)
+
 [***...Get back***](..)
