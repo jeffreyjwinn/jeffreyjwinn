@@ -23,7 +23,7 @@
                          ,  ./ / /..,/@@@@@@@,
 </pre> -->
 
-[![](/docs/MonkeyArt-BadMonkey-Mid.png)](docs/)
+[![](/docs/MonkeyArt-BadMonkey-Mid.png)](https://jeffreyjwinn.github.io/)
 
 <!--
 **jeffreyjwinn/jeffreyjwinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
