@@ -2,8 +2,6 @@
 
 ## This blog is divided into sections. Some sections have to do with thoughts and ideas, while other sections are work resources.  Enjoy.
 
-<br>
-
 [Learned Philosophies](learned-philosophies.md)
 
 [IT The Hard Way](it-the-hard-way.md)
