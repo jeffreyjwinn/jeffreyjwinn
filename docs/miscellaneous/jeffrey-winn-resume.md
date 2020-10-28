@@ -66,8 +66,6 @@ Led a team of skilled individuals to provide desktop and network support to the 
 
 Restructured existing staff and recruited new talent with a charter of delivering focused benefits tied to corporate needs. Changed department principals from reactive cost center to contributing business partner.
 
-<br>
-
 ## Testimonials
 
 > "Jeff was a bastion of calm in very turbulent waters. We were both challenged in a difficult environment where chaos was the standard operating procedure. Jeff inspired me to deliver beyond the expectations that were set upon my group, and allowed me the freedom to tackle issues creatively, without being judgmental. I learned a lot about managing from Jeff, and I would recommend him to anyone."
