@@ -30,15 +30,11 @@ In 2007, I stepped away from IT to a new role as entrepreneur and small business
 
 Solely responsible for all brewing, production and IT operations for a medium-sized local craft beer brewery based in Garden City, Idaho. Technologies utilized included networking, web authoring and maintenance, connectivity specifications, hosting selection and general troubleshooting.
 
-<br>
-
 ### Yakima Craft Brewing Co., [Yakima, WA]
 
 #### Managing Member, 7/2007 – 08/2016
 
 Founder of the company, responsible for overall management and development of both in-house and outsourced technological solutions designed to streamline and automate every aspect of a growing organization. Obtained bank financing during a severe economic downturn, due in large part to my senior-level management experience in a corporate environment.
-
-<br>
 
 ### Vesta, [Portland, OR]
 
@@ -50,8 +46,6 @@ Refocused support culture from task-oriented to service-oriented approach and at
 
 Revitalized the production and infrastructure groups to bring product-focused value to a dynamic and rapidly evolving organization.
 
-<br>
-
 ### C-COR, [Beaverton, OR]
 
 #### Chief Architect, Information Technology, 01/2005 – 07/2005
@@ -61,8 +55,6 @@ Presented new solutions to expand range of service and responsiveness for custom
 #### IT Director, Business Unit, 07/2005 − 02/2006
 
 Provided leadership for the Business Unit while embracing established corporate standards and methodologies. Consolidated several Business Unit offices into one centralized location, strengthened personnel skill sets, and provided solutions to better service unique business unit needs.
-
-<br>
 
 ### nCUBE, [Beaverton, OR]
 
