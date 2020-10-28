@@ -1,12 +1,6 @@
 # J. Winn's Blog
 
-## This blog is divided into sections. Some sections have to do with thoughts and ideas, while other sections are work resources
-
-<br>
-
-## Enjoy
-
-<br>
+## This blog is divided into sections. Some sections have to do with thoughts and ideas, while other sections are work resources.  Enjoy.
 
 [Learned Philosophies](learned-philosophies.md)
 
@@ -15,3 +9,5 @@
 [IT Security](it-security.md)
 
 [Miscellaneous](miscellaneous.md)
+____
+[Contact](contact.md)
