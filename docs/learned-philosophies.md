@@ -10,6 +10,8 @@
 
 ### Keeps the rambling down a bit.
 
+***Contents***
+
 - [Regrets](learned-philosophies/regrets.md)
 
 [***...Get back***](..)
