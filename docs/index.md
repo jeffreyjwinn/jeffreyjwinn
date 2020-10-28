@@ -9,5 +9,5 @@
 [IT Security](it-security.md)
 
 [Miscellaneous](miscellaneous.md)
-____
+
 [Contact](contact.md)
