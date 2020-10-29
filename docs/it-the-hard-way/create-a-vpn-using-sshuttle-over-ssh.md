@@ -2,7 +2,9 @@
 
 Generally, I use OpenVPN when I can.  But, sometimes, you need to create an ad hoc VPN on the fly without the time or utilities to set things up to use a proper VPN.
 
-Enter Sshuttle.  Sshuttle uses standard SSH to create a VPN between any two hosts where SSH is an option.  As a UNIX Administrator, you probably already have that.
+Then, I found Sshuttle, referenced [here](https://www.techrepublic.com/article/how-to-use-ssh-as-a-vpn-with-sshuttle/).
+
+Sshuttle uses standard SSH to create a VPN between any two hosts where SSH is an option.  As a UNIX Administrator, you probably already have that.
 
 Available under macOS and Linux, you can install shuttle under Linux like so:
 
