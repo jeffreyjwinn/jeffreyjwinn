@@ -1,1 +1,1 @@
-[![](/docs/MonkeyArt-BadMonkey-Mid.png)](https://jeffreyjwinn.github.io/)
+[![](/docs/badMonk.jpg)](https://jeffreyjwinn.github.io/)
