@@ -40,5 +40,7 @@
 - [Updating Windows Using Ansible And Winrm](it-the-hard-way/updating-windows-using-ansible-and-winrm.md)
 - [Using Ansible To Update Linux Hosts](it-the-hard-way/using-ansible-to-update-linux-hosts.md)
 - [Wordpress Cron](it-the-hard-way/wordpress-cron.md)
+- [Create A VPN Using Sshuttle Over SSH](create-a-vpn-using-sshuttle-over-ssh.md)
+- [Reduce PDF File Size Using Ghostscript](reduce-pdf-file-size-using-ghostscript.md)
 
 [***...Get back***](..)
