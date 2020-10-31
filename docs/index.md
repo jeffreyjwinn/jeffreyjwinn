@@ -1,3 +1,5 @@
+## Jeffrey Winn's Blog
+
 ## This blog is divided into sections. Some sections have to do with thoughts and ideas, while other sections are work resources.  Enjoy.
 
 [Learned Philosophies](learned-philosophies.md)
