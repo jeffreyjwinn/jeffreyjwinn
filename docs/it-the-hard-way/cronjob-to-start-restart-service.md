@@ -24,3 +24,5 @@ fi</code></pre>
 
 <pre class="wp-block-code"><code># Start SSHD daemon if not running...
 */5 * * * *     /root/bin/ssh-crond.sh > /dev/null 2>&1</code></pre>
+
+[***...Get back***](../it-the-hard-way.html)

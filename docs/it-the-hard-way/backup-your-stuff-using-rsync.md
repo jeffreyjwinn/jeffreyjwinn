@@ -10,3 +10,5 @@ rsync -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" 
 
 <pre class="wp-block-code"><code># Backup ALL of data store for Nextcloud....
 0 3 * * 7 /home/jwinn/bin/backup-nextcloud.sh >/dev/null 2>&1</code></pre>
+
+[***...Get back***](../it-the-hard-way.html)

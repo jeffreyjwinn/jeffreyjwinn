@@ -12,4 +12,4 @@ First, using _Powershell_ (as your regular user), create a function:
 
 I have seen a problem where desired changes made, in my case, by other applications (apps) to the _Powershell_ syntax, do not stick. The key, at least for me, is to make changes to the file _C:\Users\jeffr\Documents\PowerShell\Microsoft.PowerShell_profile.ps1_. Changes here seem to perpetuate through subsequent shell start ups. Now you know.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

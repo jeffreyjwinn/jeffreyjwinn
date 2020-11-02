@@ -6,4 +6,4 @@ After some research, it turns out the I needed this statement added to /etc/krb5
 
 &#8230;and now we are good!
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

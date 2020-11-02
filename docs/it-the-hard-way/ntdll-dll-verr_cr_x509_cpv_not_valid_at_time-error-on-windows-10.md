@@ -42,4 +42,4 @@ pengwin run if [ -z \"$(pidof terminator)\" ]; then "export DISPLAY=192.168.5.50
 
 &#8230;and everything is fine again. For now.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

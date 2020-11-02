@@ -8,4 +8,4 @@ You have to do this with the (typically) Advanced Config Editor. Search there fo
   </p>
 </blockquote>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

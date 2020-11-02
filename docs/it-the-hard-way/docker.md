@@ -177,4 +177,4 @@ echo "Sending to Nextcloud backup area via SSH..."
 echo "Removing original file..."
 /usr/bin/rm "nginx-backup-$datenow.tar.gz"</code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

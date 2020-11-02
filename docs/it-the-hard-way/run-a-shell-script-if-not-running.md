@@ -13,4 +13,4 @@ fi</pre>
 
 &#8230;in this example, we are using _grep_ to see if the end task is running (while avoiding _grep_ itself) and if it is not, we run the target.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

@@ -11,4 +11,4 @@ start /B x410.exe /wm
 set path=c:\Windows\System32;c:\Users\jeffr\AppData\Local\Microsoft\WindowsApps
 kali run if [ -z \"$(pidof kex)\" ]; then "kex stop; export DISPLAY=192.168.5.50:0.0; cd  /home/jwinn; kex kill; kex wtstart; fi;"</pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

@@ -49,4 +49,4 @@ to create:					virsh snapshot-create-as YOUR-VM-NAME --name SNAPSHOT-NAME
 to list:					virsh snapshot-list YOUR-VM-NAME
 to restore an snapshot:		virsh snapshot-revert YOUR-VM-NAME SNAPSHOT-NAME</code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

@@ -116,4 +116,4 @@ setw -g window-status-current-format
 setw -g window-status-separator
 </code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

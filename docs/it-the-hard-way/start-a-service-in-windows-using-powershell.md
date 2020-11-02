@@ -11,4 +11,4 @@ objShell.run("powershell -Executionpolicy Bypass -nologo -noninteractive -file C
 
 &#8230;arguably, this is messy, but it works.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

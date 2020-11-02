@@ -16,4 +16,4 @@ First, generate a pair of authentication keys on Host A **without** using a pass
 
 At this point, you should be able to _SSH_ from Host A as the example user &#8216;foo&#8217; (or whatever username you used) to Host B.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

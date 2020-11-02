@@ -28,4 +28,4 @@ Simply install Ghostscript:
 > -dPDFSETTINGS=/default
 > >Selects the output which is useful for multiple purposes. Can cause large PDFS.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)
