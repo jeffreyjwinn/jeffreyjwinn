@@ -20,4 +20,4 @@ Cut and paste the contents from:
 
 At this point, you should be able to _SSH_ from Host A as the example user &#8216;foo&#8217; (or whatever username you used) to Host B under Windows and in compatible applications such as _VS Code_.
 
-[***...Get back***](..)
+[***...Get back***](../)
