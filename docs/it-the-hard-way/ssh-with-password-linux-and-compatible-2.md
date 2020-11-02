@@ -1,6 +1,4 @@
-Same [as in this guide](https://jwinn.getamonkey.com/?page_id=443 "SSH With Password Linux (and compatible)"), you want to use SSH, in this case connecting inside VS Code, without using a password.<figure class="wp-block-image size-large">
-
-<img loading="lazy" width="533" height="194" src="https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1.png" alt="" class="wp-image-445" srcset="https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1.png 533w, https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1-300x109.png 300w" sizes="(max-width: 533px) 100vw, 533px" /> </figure> 
+Same [as in this guide](https://jwinn.getamonkey.com/?page_id=443 "SSH With Password Linux (and compatible)"), you want to use SSH, in this case connecting inside VS Code, without using a password.
 
 Note that this will be a one-way transaction; you can **only** go from Host A to Host B, unless of course you follow this procedure and swap the devices.
 

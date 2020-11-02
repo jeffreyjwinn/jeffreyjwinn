@@ -1,6 +1,4 @@
-If you want to _SSH_ into a host without a password, follow this short guide.<figure class="wp-block-image size-large">
-
-<img loading="lazy" width="533" height="194" src="https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1.png" alt="" class="wp-image-445" srcset="https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1.png 533w, https://jwinn.getamonkey.com/wp-content/uploads/2020/10/image-1-300x109.png 300w" sizes="(max-width: 533px) 100vw, 533px" /> </figure> 
+If you want to _SSH_ into a host without a password, follow this short guide.
 
 Note that this will be a one-way transaction; you can **only** go from Host A to Host B, unless of course you follow this procedure and swap the devices.
 
