@@ -6,4 +6,4 @@ While I've been meaning to do this for some time, what pushed me over the edge i
 
 I will be doing a piece on my view of the philosophy of Social Media, but this is just to let you know that you can no longer find me there.
 
-[***...Get back***](..)
+[***...Get back***](../miscellaneous.html)

@@ -17,4 +17,4 @@ Note that, as this script is simple PHP, you must call it with PHP from cron:
 
 <pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">15 */2 * * *    /usr/bin/php /usr/share/wordpress/bin/wp-updraft-backup-cron.php >/dev/null 2>&1</pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)
