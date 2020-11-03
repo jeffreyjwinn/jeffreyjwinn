@@ -6,8 +6,8 @@
 
 ***Contents***
 
-- [Exploiting Metasploitable 2](exploiting-metasploitable2.md)
-- [Hacker 101 Capture The Flag](hacker101s-capture-the-flag.md)
-- [OWASP's Juice Shop](owasps-juice-shop.md)
+- [Exploiting Metasploitable 2](it-security/exploiting-metasploitable2.md)
+- [Hacker 101 Capture The Flag](it-security/hacker101s-capture-the-flag.md)
+- [OWASP's Juice Shop](it-security/owasps-juice-shop.md)
 
 [***...Get back***](..)
