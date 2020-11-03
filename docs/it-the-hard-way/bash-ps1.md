@@ -62,3 +62,5 @@ fi
 </code></pre>
 
 **&#8230;note that on my WSL environment (**_**uname -a**_ **gives me** _**Linux corellia 4.4.0-19645-Microsoft #1-Microsoft Thu Jun 05 15:02:00 PST 2020 x86_64 GNU/Linux**_**), my** _**su**_ **to root calls** _**/etc/bash.bashrc**_ **instead of the expected** _**~/.bashrc**_**. I just** _**ln -s**_ **one to the other.**
+
+[***...Get back***](../it-the-hard-way.html)
