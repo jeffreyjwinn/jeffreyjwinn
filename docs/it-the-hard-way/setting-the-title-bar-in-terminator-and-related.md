@@ -32,4 +32,4 @@ function su()
    title $USER@$HOST
 }</code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

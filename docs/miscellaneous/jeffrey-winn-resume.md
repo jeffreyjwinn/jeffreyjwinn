@@ -84,4 +84,4 @@ Restructured existing staff and recruited new talent with a charter of deliverin
 
   ***- Kent Helm***, *worked with Jeffrey at nCUBE*
 
-[***...Get back***](..)
+[***...Get back***](../miscellaneous.html)

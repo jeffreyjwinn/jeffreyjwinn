@@ -11,4 +11,4 @@ You can also make your OpenSSH server keep alive all connections with clients by
 <pre class="wp-block-code"><code>ClientAliveInterval 300
 ClientAliveCountMax 2</code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

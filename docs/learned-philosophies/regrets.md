@@ -24,4 +24,4 @@ In the end, without having gone to college, I will perhaps never know what diffe
 
 I only have a few significant regrets.&nbsp; I hold on to those regrets as some of the most important lessons I&#8217;ve ever learned.&nbsp; So, in that way at least, they can serve some purpose.
 
-[***...Get back***](..)
+[***...Get back***](../learned-philosophies.html)

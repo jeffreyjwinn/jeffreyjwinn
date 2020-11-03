@@ -14,4 +14,4 @@ Permanent solution (if it happens regularly):
   </p>
 </blockquote>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

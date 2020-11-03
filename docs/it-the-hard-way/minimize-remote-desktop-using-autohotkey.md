@@ -11,4 +11,4 @@ Then I ran across this gem, which works great!:
   return
 #IfWinActive</pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

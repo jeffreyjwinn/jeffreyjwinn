@@ -52,4 +52,6 @@ The key was to submit a SQL injection in the username field with the password be
 
 &#8230;once that was done, a new page show up titled &#8216;Private Page&#8217;. That&#8217;s where I found the first flag.
 
-[***...Get back***](..)
+#### To be continued...
+
+[***...Get back***](../it-security.html)

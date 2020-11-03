@@ -47,4 +47,4 @@ Once you have verified that _winrm_ is working, you can use a playbook like this
 
 &#8230;more to come on using this excellent, if very basic, administration tool. I like it as it makes sense to a UNIX-inclined administrator.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

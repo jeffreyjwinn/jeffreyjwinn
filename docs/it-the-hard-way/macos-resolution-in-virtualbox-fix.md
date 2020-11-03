@@ -4,4 +4,4 @@
   </p>
 </blockquote>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

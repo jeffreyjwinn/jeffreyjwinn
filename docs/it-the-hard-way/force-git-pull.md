@@ -3,4 +3,4 @@ If you (like me) occasionally have a pull that needs refreshing but have somehow
 <pre class="wp-block-code"><code>git reset --hard HEAD
 git pull</code></pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

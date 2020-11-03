@@ -87,4 +87,4 @@ _Ansible_ can be used for a dizzying array of things. Once it is set up and you 
 
 I have this script in my _crontab_. We will see how that works out.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

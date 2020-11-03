@@ -4,4 +4,4 @@ One solution to this problem is to use _dpkg_ itself to force the issue:
 
 <pre class="EnlighterJSRAW" data-enlighter-language="generic" data-enlighter-theme="" data-enlighter-highlight="" data-enlighter-linenumbers="" data-enlighter-lineoffset="" data-enlighter-title="" data-enlighter-group="">dpkg --configure -a</pre>
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

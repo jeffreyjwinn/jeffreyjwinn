@@ -201,4 +201,4 @@ One confusion you might have is if you can scan your host and see the open port,
 
 From what I can tell, this is caused by never fully connecting to the SSH server on WSL, likely because the traffic is not being routed correctly but the port is open. That&#8217;s what the _netsh_ command referenced above does.
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)

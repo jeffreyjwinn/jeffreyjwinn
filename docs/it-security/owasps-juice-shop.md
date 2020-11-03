@@ -112,4 +112,6 @@ In the end, this reworked URL did the trick:
 
 &#8230;what did help was the ability in Firefox Developer&#8217;s Edition to &#8220;prettify&#8221; the code.
 
-[***...Get back***](..)
+#### To be continued...
+
+[***...Get back***](../it-security.html)

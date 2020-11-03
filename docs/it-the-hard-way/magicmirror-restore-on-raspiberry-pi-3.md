@@ -16,4 +16,4 @@ sudo npm install</pre>
 
 &#8230;and all is well!
 
-[***...Get back***](..)
+[***...Get back***](../it-the-hard-way.html)
