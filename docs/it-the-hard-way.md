@@ -42,5 +42,6 @@
 - [Wordpress Cron](it-the-hard-way/wordpress-cron.md)
 - [Create A VPN Using Sshuttle Over SSH](it-the-hard-way/create-a-vpn-using-sshuttle-over-ssh.md)
 - [Reduce PDF File Size Using Ghostscript](it-the-hard-way/reduce-pdf-file-size-using-ghostscript.md)
+- [Remmina RDP Connectivity Issues](it-the-hard-way/remmina-rdp-connectivity-issues.md)
 
 [***...Get back***](..)
