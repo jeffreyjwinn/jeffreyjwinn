@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 
-<html>
-<head>
+<!-- <html>
+<head> -->
 <title>Jeffrey Winn's Blog</title>
 
 <script language="JavaScript1.3" type="text/javascript" src="jse_form.js">
@@ -13,8 +13,8 @@ Minor changes by JavaScriptKit.com- http://www.javascriptkit.com/script/script2/
 
 </script>
 
-</head>
-<body>
+<!-- </head>
+<body> -->
 
 
 <!-- Find -->
