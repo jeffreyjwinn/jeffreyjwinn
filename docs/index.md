@@ -1,3 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+
+<html>
+<head>
+<title>Jeffrey Winn's Blog</title>
+
 <script language="JavaScript1.3" type="text/javascript" src="jse_form.js">
 
 /*
@@ -13,14 +19,14 @@ Minor changes by JavaScriptKit.com- http://www.javascriptkit.com/script/script2/
 
 <!-- Find -->
 
-<!-- <form name="jse_Form" onsubmit="search_form(jse_Form);return false">
+<form name="jse_Form" onsubmit="search_form(jse_Form);return false">
 <input type="text" name="d">
 <input type="button" value="Go" onclick="search_form(jse_Form)">
 </form>
 
 Enter JSE in the example above.
 <p><font face="arial" size="-2">This free script provided by<br><a href="http://www.javascriptkit.com">JavaScript
-Kit</a></font></p> -->
+Kit</a></font></p>
 
 
 </body>
