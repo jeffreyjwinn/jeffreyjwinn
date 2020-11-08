@@ -10,8 +10,10 @@ var bold = 0;
 
 var s = new Array();
 
-s[0] = "JSE^form.html^Enter JSE in the example above ...^open source, free, client side";
-s[1] = "JSE DOCUMENTATION^doc.txt^JSE is a client-side local site search engine. Written entirely in JavaScript 1.3 it works with browsers from Netscape 4.7 to Microsoft Internet Explorer 6.0 ...^ faq, docs, instructions";
+// s[0] = "JSE^form.html^Enter JSE in the example above ...^open source, free, client side";
+s[0] = ""
+// s[1] = "JSE DOCUMENTATION^doc.txt^JSE is a client-side local site search engine. Written entirely in JavaScript 1.3 it works with browsers from Netscape 4.7 to Microsoft Internet Explorer 6.0 ...^ faq, docs, instructions";
+s[1] = ""
 
 
 // ---------- end of script properties and sites ----------

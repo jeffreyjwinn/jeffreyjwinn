@@ -24,9 +24,9 @@ Minor changes by JavaScriptKit.com- http://www.javascriptkit.com/script/script2/
 <input type="button" value="Go" onclick="search_form(jse_Form)">
 </form>
 
-Enter JSE in the example above.
+<!-- Enter JSE in the example above.
 <p><font face="arial" size="-2">This free script provided by<br><a href="http://www.javascriptkit.com">JavaScript
-Kit</a></font></p>
+Kit</a></font></p> -->
 
 
 </body>
