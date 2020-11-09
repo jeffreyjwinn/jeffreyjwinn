@@ -5,6 +5,9 @@ show_downloads: false
 toc:
   on: true
 favicon: /docs/favicon.ico
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 gems:
     - searchyll
 elasticsearch:
