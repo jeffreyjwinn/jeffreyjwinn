@@ -8,6 +8,9 @@ favicon: /docs/favicon.ico
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
 gems:
     - searchyll
 elasticsearch:
