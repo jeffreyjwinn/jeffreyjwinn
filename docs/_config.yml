@@ -19,6 +19,9 @@ plugins:
   - jekyll-redirect-from
   - kramdown
   - nokogiri
+tipue_search:
+  include:
+    pages: true
 gems:
   - searchyll
 elasticsearch:
