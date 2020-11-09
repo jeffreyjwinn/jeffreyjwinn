@@ -76,11 +76,11 @@ http://www.tipue.com/search
 }
 #tipue_search_results_count
 {
-	color: #fff;
+	color: #b5e853;
 }
 #tipue_search_warning
 {
-     color: #aaa;    
+     color: rgb(255, 0, 0);    
 	margin: 7px 0;
 }
 #tipue_search_warning a
@@ -90,7 +90,7 @@ http://www.tipue.com/search
 }
 #tipue_search_warning a:hover
 {
-     color: #fff;
+     color: rgb(255, 0, 0);
 }
 .tipue_search_content_title
 {
