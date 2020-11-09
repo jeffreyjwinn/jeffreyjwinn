@@ -94,17 +94,17 @@ http://www.tipue.com/search
 }
 .tipue_search_content_title
 {
-     color: #b5e853;
+     color: #666;
 	margin-top: 21px;
 }
 .tipue_search_content_title a
 {
-     color: #b5e853;
+     color: #666;
      text-decoration: none;
 }
 .tipue_search_content_title a:hover
 {
-     color: #b5e853;
+     color: #666;
 }
 .tipue_search_content_url
 {
@@ -118,7 +118,7 @@ http://www.tipue.com/search
 }
 .tipue_search_content_url a:hover, .tipue_search_related_text a:hover, .tipue_search_related_before, .tipue_search_related_after
 {
-     color: #b5e853;
+     color: #666;
 }
 .tipue_search_content_text
 {
@@ -198,7 +198,8 @@ http://www.tipue.com/search
 .tipue_search_spinner
 {
      width: 50px;
-     height: 28px;
+     height: 20px;
+     float: right;
 }
 .tipue_search_spinner > div
 {
