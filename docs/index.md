@@ -11,3 +11,5 @@
 [Miscellaneous](miscellaneous.md)
 
 [Contact](contact.md)
+
+{% include nav.html %}
