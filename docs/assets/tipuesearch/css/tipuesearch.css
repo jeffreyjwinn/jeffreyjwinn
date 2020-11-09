@@ -56,10 +56,10 @@ http://www.tipue.com/search
 }
 .tipue_search_left
 {
-     /* float: left; */
+     float: left;
      padding: 15px 9px 0 0;
-     position: fixed;
-     /* top: 50%;
+     /* position: fixed;
+     top: 50%;
      bottom: 50%;
      margin-top: -100px;
      margin-left: -100px; */
