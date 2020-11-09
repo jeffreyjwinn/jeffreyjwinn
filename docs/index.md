@@ -12,4 +12,4 @@
 
 [Contact](contact.md)
 
-{% include nav.html %}
+<!-- {% include nav.html %} -->
