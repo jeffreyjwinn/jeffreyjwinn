@@ -1,4 +1,4 @@
-{% include header.md %}
+{% include header.html %}
 
 ## Jeffrey Winn's Blog
 

@@ -2,6 +2,9 @@ theme: jekyll-theme-hacker
 title: [Jeffrey Winn's Blog]
 description: [Assorted thoughts and information of nominal value]
 show_downloads: false
+tipue_search:
+  include:
+    pages: true
 toc:
   on: true
 favicon: /docs/favicon.ico
@@ -19,9 +22,6 @@ plugins:
   - jekyll-redirect-from
   - kramdown
   - nokogiri
-tipue_search:
-  include:
-    pages: true
 gems:
   - searchyll
 elasticsearch:
