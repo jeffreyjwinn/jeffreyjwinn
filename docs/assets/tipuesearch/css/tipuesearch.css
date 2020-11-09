@@ -76,7 +76,7 @@ http://www.tipue.com/search
 }
 #tipue_search_results_count
 {
-	color: #b5e853;
+	color: #fff;
 }
 #tipue_search_warning
 {
@@ -94,17 +94,17 @@ http://www.tipue.com/search
 }
 .tipue_search_content_title
 {
-     color: #666;
+     color: #aaa;
 	margin-top: 21px;
 }
 .tipue_search_content_title a
 {
-     color: #666;
+     color: #aaa;
      text-decoration: none;
 }
 .tipue_search_content_title a:hover
 {
-     color: #666;
+     color: #aaa;
 }
 .tipue_search_content_url
 {
@@ -118,7 +118,7 @@ http://www.tipue.com/search
 }
 .tipue_search_content_url a:hover, .tipue_search_related_text a:hover, .tipue_search_related_before, .tipue_search_related_after
 {
-     color: #666;
+     color: #aaa;
 }
 .tipue_search_content_text
 {
@@ -133,12 +133,12 @@ http://www.tipue.com/search
 }
 .tipue_search_content_debug
 {
-	color: #666;
+	color: #aaa;
      margin: 5px 0;
 }
 .tipue_search_related_title
 {
-	color: #666;
+	color: #aaa;
      margin: 26px 0 7px 0;
 }
 .tipue_search_related_cols
