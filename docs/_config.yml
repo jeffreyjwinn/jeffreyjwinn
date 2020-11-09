@@ -11,8 +11,58 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+
+sidebar:
+  # Sidebar Position, available value: left | right
+  position: left
+  #position: right
+
+  # Sidebar Display, available value:
+  #  - post    expand on posts automatically. Default.
+  #  - always  expand for all pages automatically
+  #  - hide    expand only when click on the sidebar toggle icon.
+  #  - remove  Totally remove sidebar including sidebar toggle.
+  display: post
+  #display: always
+  #display: hide
+  #display: remove
+
+  # Sidebar offset from top menubar in pixels.
+  offset: 12
+  offset_float: 0
+
+  # Back to top in sidebar
+  b2t: false
+
+  # Scroll percent label in b2t button
+  scrollpercent: true
+
+# Table Of Contents in the Sidebar
+toc:
+  enable: true
+
+  # Automatically add list number to toc.
+  number: true
+
+  # If true, all words will placed on next lines if header width longer then sidebar width.
+  wrap: false
+
+# Local search
+local_search:
+  enable: true
+  # if auto, trigger search by changing input
+  # if manual, trigger search by pressing enter key or search button
+  trigger: auto
+  # show top n results per article, show all results by setting to -1
+  top_n_per_article: 1
+
+# External URL with BASE64 encrypt & decrypt
+# Usage: {% exturl text url "title" %}
+# Alias: {% extlink text url "title" %}
+exturl: false
+
 gems:
-    - searchyll
+  - searchyll
 elasticsearch:
   url: https://z9gvt4xaec:czbzpum2h8@github-2719164518.us-west-2.bonsaisearch.net:443
   index_name: github
