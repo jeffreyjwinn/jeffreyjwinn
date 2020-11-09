@@ -13,5 +13,3 @@
 [Contact](contact.md)
 
 {% include nav.html %}
-
-{{ site.time | date_to_string }}
