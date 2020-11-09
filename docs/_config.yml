@@ -5,3 +5,8 @@ show_downloads: false
 toc:
   on: true
 favicon: /docs/favicon.ico
+gems:
+    - searchyll
+elasticsearch:
+  url: https://z9gvt4xaec:czbzpum2h8@github-2719164518.us-west-2.bonsaisearch.net:443
+  index_name: github
