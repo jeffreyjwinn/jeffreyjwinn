@@ -219,8 +219,6 @@ Cut and paste
 - x - delete (cut) character
 
 Exiting
-[***...Get back***](../it-the-hard-way.html)
-
 
 - :w - write (save) the file, but don't exit
 - :w !sudo tee % - write out the current file using sudo

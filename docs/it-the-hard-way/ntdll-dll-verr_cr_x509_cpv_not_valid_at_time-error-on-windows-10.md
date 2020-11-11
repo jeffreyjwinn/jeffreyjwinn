@@ -2,11 +2,7 @@ I am on the &#8220;insider build&#8221; program. Until a bit ago, I was on the &
 
 Curiously, while on the beta channel, the certificates associated with some of my needed files (specifically here, _ntdll.dll_) expired. That was demonstrated, for me, by not being able to run any Virtualbox Virtual Machines (VM), something I very much need to do.
 
-Here are some shots of the errors I was seeing:<figure class="wp-block-image">
-
-<img loading="lazy" width="522" height="307" src="https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153043.png" alt="" class="wp-image-304" srcset="https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153043.png 522w, https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153043-300x176.png 300w" sizes="(max-width: 522px) 100vw, 522px" /> </figure> <figure class="wp-block-image"><img loading="lazy" width="277" height="487" src="https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153053.png" alt="" class="wp-image-305" srcset="https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153053.png 277w, https://jwinn.getamonkey.com/wp-content/uploads/2020/08/Annotation-2020-08-03-153053-171x300.png 171w" sizes="(max-width: 277px) 100vw, 277px" /></figure> 
-
-&#8230;and some snipped log entries, pointing out the problem:  
+Some snipped log entries, pointing out the problem:  
 
 
 <pre class="wp-block-code"><code>5174.4b04:   00007ff9bc0b9000-00007ff9bc12cfff 0x0002/0x0080 0x1000000  \Device\HarddiskVolume1\Windows\System32\ntdll.dll
@@ -29,7 +25,7 @@ Bugs, bugs, bugs!
 
 Related to this, after going to the _dev_ channel update, turns out there is a bug with (at least) WSL 1 and your PATH variable. An issue known to Microsoft, referenced again [here](https://blogs.windows.com/windowsexperience/2020/07/29/announcing-windows-10-insider-preview-build-20180/).
 
-In short, [I have a Visual Basic Script (VBS) that calls a batch file to run my preferred terminal, Terminator, over WSL 1](https://jwinn.getamonkey.com/?page_id=193). That stopped working after this channel change (yay!). Note that the same should be related to anything WSL (including _wsl.exe_).
+In short, I have a Visual Basic Script (VBS) that calls a batch file to run my preferred terminal, Terminator, over WSL 1. That stopped working after this channel change (yay!). Note that the same should be related to anything WSL (including _wsl.exe_).
 
 To get around that, I changed my batch script to shorten the &#8220;normal&#8221; path from Windows:
 
