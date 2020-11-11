@@ -45,5 +45,6 @@
 - [Remmina RDP Connectivity Issues](it-the-hard-way/remmina-rdp-connectivity-issues.md)
 - [Send Multiple Files Using Find And Swaks](it-the-hard-way/send-multiple-files-using-find-and-swaks.md)
 - [Mount USB Under WSL](it-the-hard-way/mount-usb-under-wsl.md)
+- [An Alternative To Watch](it-the-hard-way/an-alternative-to-watch.md)
 
 [***...Get back***](..)
