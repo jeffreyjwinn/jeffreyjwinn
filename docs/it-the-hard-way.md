@@ -47,5 +47,6 @@
 - [Mount USB Under WSL](it-the-hard-way/mount-usb-under-wsl.md)
 - [An Alternative To Watch](it-the-hard-way/an-alternative-to-watch.md)
 - [Update Individual Ansible Hosts From Playbook](it-the-hard-way/update-individual-ansible-hosts-from-playbook.md)
+- [Use Flock In Shell](it-the-hard-way/use-flock-in-shell.md)
 
 [***...Get back***](..)
