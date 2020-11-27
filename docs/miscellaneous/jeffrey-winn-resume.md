@@ -10,10 +10,11 @@
 
 *Senior and Mid-Level Management, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Systems Integration, Process Improvement, Cloud Computing and Storage, Project Management, Strategic Planning*
 
-## Certifications
+## Certifications / Other
 
 [Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH) v10
-
+<br>
+DoD Secret Security Clearance (active)
 ## Summary
 
 I believe that every role is a customer service role. Your customers may be outward or inward facing, but the goal is no different; complete customer satisfaction.
@@ -42,33 +43,29 @@ Founder of the company, responsible for overall management and development of bo
 
 ### Vesta, [Portland, OR]
 
+#### Director, Information Technology, 09/2006 – 04/2007
+
+Revitalized the production and infrastructure groups to bring product-focused value to a dynamic and rapidly evolving organization.
 #### Director, Information Services, 05/2006 − 09/2006
 
 Refocused support culture from task-oriented to service-oriented approach and attitude. Successfully achieved corporate mission to bring embattled departments together in a high pressure environment.
 
-#### Director, Information Technology, 09/2006 – 04/2007
-
-Revitalized the production and infrastructure groups to bring product-focused value to a dynamic and rapidly evolving organization.
-
 ### C-COR, [Beaverton, OR]
-
-#### Chief Architect, Information Technology, 01/2005 – 07/2005
-
-Presented new solutions to expand range of service and responsiveness for customer base. Scrutinized emerging technologies and restructured existing processes, improving the effectiveness of IT for the company as a whole.
 
 #### IT Director, Business Unit, 07/2005 − 02/2006
 
 Provided leadership for the Business Unit while embracing established corporate standards and methodologies. Consolidated several Business Unit offices into one centralized location, strengthened personnel skill sets, and provided solutions to better service unique business unit needs.
+#### Chief Architect, Information Technology, 01/2005 – 07/2005
+
+Presented new solutions to expand range of service and responsiveness for customer base. Scrutinized emerging technologies and restructured existing processes, improving the effectiveness of IT for the company as a whole.
 
 ### nCUBE, [Beaverton, OR]
-
-#### Manager, Computer Resource Group, 12/1996 – 05/2000
-
-Led a team of skilled individuals to provide desktop and network support to the enterprise. Managed budgets and contracts, reduced overall costs during a period of rapid expansion.
-
 #### Director, Information Technology, 05/2000 − 01/2005
 
 Restructured existing staff and recruited new talent with a charter of delivering focused benefits tied to corporate needs. Changed department principals from reactive cost center to contributing business partner.
+#### Manager, Computer Resource Group, 12/1996 – 05/2000
+
+Led a team of skilled individuals to provide desktop and network support to the enterprise. Managed budgets and contracts, reduced overall costs during a period of rapid expansion.
 
 ## Testimonials
 
