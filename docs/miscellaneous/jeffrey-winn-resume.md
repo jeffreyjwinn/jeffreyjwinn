@@ -28,18 +28,21 @@ I began my career of over 20 years in technology as an individual contributor an
 #### NMCI Service Desk Agent, 11/2020 – Present
 
 Provide Tier I and II technical software, hardware and network problem resolution for clients by performing problem diagnosis and guiding users through step-by-step solutions or may provide expertise to solve first and second tier technical support issues for end-users of the organization's products and services, including basic PC, PBX, and network software programming.
+
 <br>
 ### Crooked Fence Brewing, [Garden City, ID]
 
 #### Head Brewer, 10/2016 – 11/2020
 
 Solely responsible for all brewing, production and IT operations for a medium-sized local craft beer brewery based in Garden City, Idaho. Technologies utilized included networking, web authoring and maintenance, connectivity specifications, hosting selection and general troubleshooting.
+
 <br>
 ### Yakima Craft Brewing Co., [Yakima, WA]
 
 #### Managing Member, 7/2007 – 08/2016
 
 Founder of the company, responsible for overall management and development of both in-house and outsourced technological solutions designed to streamline and automate every aspect of a growing organization. Obtained bank financing during a severe economic downturn, due in large part to my senior-level management experience in a corporate environment.
+
 <br>
 ### Vesta, [Portland, OR]
 
@@ -49,6 +52,7 @@ Revitalized the production and infrastructure groups to bring product-focused va
 #### Director, Information Services, 05/2006 − 09/2006
 
 Refocused support culture from task-oriented to service-oriented approach and attitude. Successfully achieved corporate mission to bring embattled departments together in a high pressure environment.
+
 <br>
 ### C-COR, [Beaverton, OR]
 
@@ -58,6 +62,7 @@ Provided leadership for the Business Unit while embracing established corporate 
 #### Chief Architect, Information Technology, 01/2005 – 07/2005
 
 Presented new solutions to expand range of service and responsiveness for customer base. Scrutinized emerging technologies and restructured existing processes, improving the effectiveness of IT for the company as a whole.
+
 <br>
 ### nCUBE, [Beaverton, OR]
 #### Director, Information Technology, 05/2000 − 01/2005
