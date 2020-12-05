@@ -25,7 +25,7 @@ I began my career of over 20 years in technology as an individual contributor an
 
 ### Experis, [Merdian, ID]
 
-#### NMCI Service Desk, 11/2020 – Present
+#### NMCI Service Desk Agent, 11/2020 – Present
 
 Provide Tier I and II technical software, hardware and network problem resolution for clients by performing problem diagnosis and guiding users through step-by-step solutions or may provide expertise to solve first and second tier technical support issues for end-users of the organization's products and services, including basic PC, PBX, and network software programming.
 
