@@ -24,6 +24,7 @@ I believe that every role is a customer service role. Your customers may be outw
 
 I began my career of over 20 years in technology as an individual contributor and have enjoyed the many benefits of working with talented colleagues as well as managing a diverse group of skilled people. I am most proud of my ability to provide solutions as enabled by technology, rather than by focusing simply on the technology for its own sake.
 
+<br>
 ## Experience
 
 ### Experis, [Merdian, ID]
