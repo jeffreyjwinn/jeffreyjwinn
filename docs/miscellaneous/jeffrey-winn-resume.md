@@ -10,11 +10,14 @@
 
 *Senior and Mid-Level Management, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Systems Integration, Process Improvement, Cloud Computing and Storage, Project Management, Strategic Planning*
 
+<br>
 ## Certifications / Other
 
 [Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH) v10
 <br>
 DoD Secret Security Clearance (active)
+
+<br>
 ## Summary
 
 I believe that every role is a customer service role. Your customers may be outward or inward facing, but the goal is no different; complete customer satisfaction.
@@ -72,6 +75,7 @@ Restructured existing staff and recruited new talent with a charter of deliverin
 
 Led a team of skilled individuals to provide desktop and network support to the enterprise. Managed budgets and contracts, reduced overall costs during a period of rapid expansion.
 
+<br>
 ## Testimonials
 
 > "Jeff was a bastion of calm in very turbulent waters. We were both challenged in a difficult environment where chaos was the standard operating procedure. Jeff inspired me to deliver beyond the expectations that were set upon my group, and allowed me the freedom to tackle issues creatively, without being judgmental. I learned a lot about managing from Jeff, and I would recommend him to anyone."
