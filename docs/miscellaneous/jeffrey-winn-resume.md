@@ -27,7 +27,7 @@ I began my career of over 20 years in technology as an individual contributor an
 <br>
 ## Experience
 
-### Experis, [Merdian, ID]
+### Perspecta (via Experis), [Boise, ID]
 
 #### NMCI Service Desk Agent, 11/2020 – Present
 
