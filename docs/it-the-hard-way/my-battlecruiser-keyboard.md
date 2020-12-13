@@ -93,6 +93,8 @@ macroblock
 endblock
 </pre>
 
+![My 1997 IBM Modem M 122 "Battlecruiser"](../battlecruiser.jpg)
+
 ...on this layout, you can see (referencing the Soarer's documentation) the custom key mapping I am using.  One curious thing that I haven't figured out yet:  since I am a VI user, the ESC key is important to me.  I have to institute an alternative, as a "normal" ESC isn't doing the trick.  As you can see from EXTRA_F2, I had to essentially use a macro to do a CTRL-[ instead of ESC.  It seems to work fine in VI and in VI-mode for WSL, Code, etc.  I also had to use macros for copy, cut and paste, but this is alluded to in the Soarer's documentation.
 
 [***...Get back***](../it-the-hard-way.html)
