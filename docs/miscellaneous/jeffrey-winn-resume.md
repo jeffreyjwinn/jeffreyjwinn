@@ -13,9 +13,11 @@
 <br>
 ## Certifications / Other
 
-[Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH) v10
+[Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH)
 <br>
 DoD Secret Security Clearance (active)
+
+[https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
 
 <br>
 ## Summary
