@@ -4,7 +4,7 @@
 
 ***Contents***
 
-- [Jeffrey Winn's Resume](miscellaneous/jeffrey-winn-resume.md)
+- [Jeffrey Winn's Résumé](miscellaneous/jeffrey-winn-resume.md)
 - [My Social Media Accounts](miscellaneous/my-social-media-accounts.md)
 
 [***...Get back***](..)
