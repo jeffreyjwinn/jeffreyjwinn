@@ -15,6 +15,8 @@
 
 [Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH)
 <br>
+[CompTIA Security+](https://www.comptia.org/certifications/security)
+<br>
 DoD Secret Security Clearance (active)
 
 [https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
