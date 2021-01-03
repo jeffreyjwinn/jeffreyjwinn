@@ -15,7 +15,7 @@
 
 [Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH)
 <br>
-[CompTIA Security+](https://www.comptia.org/certifications/security)
+[CompTIA Security+](https://en.wikipedia.org/wiki/CompTIA#Certifications)
 <br>
 DoD Secret Security Clearance (active)
 
@@ -31,7 +31,7 @@ I began my career of over 20 years in technology as an individual contributor an
 <br>
 ## Experience
 
-### Perspecta (via Experis), [Boise, ID]
+### Perspecta (via Experis/ManpowerGroup), [Boise, ID]
 
 #### NMCI Service Desk Agent, 11/2020 – Present
 
