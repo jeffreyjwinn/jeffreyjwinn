@@ -62,7 +62,7 @@ macroblock
   macro EXTRA_F1
     PUSH_META CLEAR_META all
     MAKE LCTRL
-    PRESS E
+    PRESS C
     BREAK LCTRL
     POP_ALL_META
   endmacro
@@ -70,7 +70,7 @@ macroblock
   macro EXTRA_F2
     PUSH_META CLEAR_META all
     MAKE LCTRL
-    PRESS LEFT_BRACE
+    PRESS E
     BREAK LCTRL
     POP_ALL_META
   endmacro
@@ -86,7 +86,7 @@ macroblock
   macro EXTRA_F4
     PUSH_META CLEAR_META all
     MAKE LCTRL
-    PRESS C
+    PRESS LEFT_BRACE
     BREAK LCTRL
     POP_ALL_META
   endmacro
@@ -116,6 +116,6 @@ Using the Soarer's code above (notice the macro for EXTRA_F1) and the following 
 ^e::Send, {ESC}
 </pre>
 
-...I as able to map CTRL-e to ESC through AutoHotkey and then map CTRL-e to EXTRA_F1 in Soarer's.  So far, it works well!
+...I as able to map CTRL-e to ESC through AutoHotkey and then map CTRL-e to EXTRA_F1 in Soarer's.  Note that I moved EXTRA_F2 to EXTRA_F4, just in case.  So far, it works well!
 
 [***...Get back***](../it-the-hard-way.html)
