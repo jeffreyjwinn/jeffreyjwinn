@@ -18,11 +18,14 @@ So, in additional to moving keycaps around, I had to invest in an RJ45-to-USB [S
 So, if you are having to map your IBM Modem M 122 "Battlecruiser" keyboard, the following is my *.sc file, note follow that:
 
 <pre>
+ifset set3
 layerblock
 	FN1 1
+  FN2 2
 endblock
 
 remapblock
+ifset set3
 layer 0
 	F13			MEDIA_MUTE
 	F14			MEDIA_VOLUME_UP
@@ -33,35 +36,33 @@ layer 0
 	F19			MEDIA_NEXT_TRACK
 	F20			PRINTSCREEN
 	F21			UNASSIGNED
-    F22			UNASSIGNED
+  F22			UNASSIGNED
 	F23			PAUSE
 	F24			SCROLL_LOCK
-	
-	EXTRA_F4	UNASSIGNED
+
 	EXTRA_F6	UNASSIGNED
 	EXTRA_F7	UNASSIGNED
 	EXTRA_F8	UNASSIGNED
-`    EXTRA_F9    LCTRL
+  EXTRA_F9  UNASSIGNED
 	EXTRA_F10	LGUI
 	
-	ESC         NUM_LOCK
+	ESC       NUM_LOCK
 	NUM_LOCK	PAD_SLASH
 	SCROLL_LOCK	PAD_ASTERIX
 	EXTRA_SYSRQ	PAD_MINUS
 	PAD_ASTERIX	PAD_PLUS
-	PAD_MINUS	UNASSIGNED
+	PAD_MINUS PAD_PLUS
 	PAD_PLUS	PAD_ENTER
-	LANG_4		UNASSIGNED
-	EUROPE_1    BACKSLASH
+	LANG_4		END
+  EUROPE_1  BACKSLASH
 	EUROPE_2	UNASSIGNED
 endblock
 
 macroblock
-
   macro EXTRA_F1
     PUSH_META CLEAR_META all
     MAKE LCTRL
-    PRESS C
+    PRESS E
     BREAK LCTRL
     POP_ALL_META
   endmacro
@@ -76,8 +77,16 @@ macroblock
 
   macro EXTRA_F3
     PUSH_META CLEAR_META all
+    MAKE LSHIFT
+    PRESS ESC
+    BREAK LSHIFT
+    POP_ALL_META
+  endmacro
+
+  macro EXTRA_F4
+    PUSH_META CLEAR_META all
     MAKE LCTRL
-    PRESS X
+    PRESS C
     BREAK LCTRL
     POP_ALL_META
   endmacro
@@ -89,12 +98,24 @@ macroblock
     BREAK LCTRL
     POP_ALL_META
   endmacro
-
 endblock
 </pre>
 
 ![My 1997 IBM Modem M 122 "Battlecruiser"](../battlecruiser.jpg)
 
 ...on this layout, you can see (referencing the Soarer's documentation) the custom key mapping I am using.  One curious thing that I haven't figured out yet:  since I am a VI user, the ESC key is important to me.  I have to institute an alternative, as a "normal" ESC isn't doing the trick.  As you can see from EXTRA_F2, I had to essentially use a macro to do a CTRL-[ instead of ESC.  It seems to work fine in VI and in VI-mode for WSL, Code, etc.  I also had to use macros for copy, cut and paste, but this is alluded to in the Soarer's documentation.
+
+<strong> Update, 2/2021 </strong>
+
+...recently, I've figured out how to emulate the ESC referenced above.  Since I use [AutoHotkey](https://www.autohotkey.com/) I thought that there must be a way to do this using both AutoHotkey and Soarer's.  There was.
+
+Using the Soarer's code above (notice the macro for EXTRA_F1) and the following AutoHotkey outtake:
+
+<pre>
+; jwinn, 2/2021
+^e::Send, {ESC}
+</pre>
+
+...I as able to map CTRL-e to ESC through AutoHotkey and then map CTRL-e to EXTRA_F1 in Soarer's.  So far, it works well!
 
 [***...Get back***](../it-the-hard-way.html)
