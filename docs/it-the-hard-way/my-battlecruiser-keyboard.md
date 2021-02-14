@@ -109,13 +109,26 @@ endblock
 
 ...recently, I've figured out how to emulate the ESC referenced above.  Since I use [AutoHotkey](https://www.autohotkey.com/) I thought that there must be a way to do this using both AutoHotkey and Soarer's.  There was.
 
-Using the Soarer's code above (notice the macro for EXTRA_F1) and the following AutoHotkey outtake:
+Using the Soarer's code above (notice the macro for EXTRA_F2) and the following AutoHotkey outtake:
 
 <pre>
 ; jwinn, 2/2021
 ^e::Send, {ESC}
 </pre>
 
-...I as able to map CTRL-e to ESC through AutoHotkey and then map CTRL-e to EXTRA_F1 in Soarer's.  Note that I moved EXTRA_F2 to EXTRA_F4, just in case.  So far, it works well!
+...I as able to map CTRL-e to ESC through AutoHotkey and then map CTRL-e to EXTRA_F2 in Soarer's.  Note that I moved EXTRA_F2 to EXTRA_F4, just in case.  So far, it works well!
+
+Also, if you want to use this with Linux (as I do, as well), you'll likely need to map things using ```xbindkeys``` and ```xvkbd```.
+
+As an example, my ```~/.xbindkeysrc``` contains:
+
+<pre>
+#Escape from EXTRA_F2
+"xvkbd -no-jump-pointer -xsendevent -text '\e'"
+    m:0x14 + c:26
+    Control+Mod2 + e 
+</pre>
+
+...this calls ESC from the mapping already set up (remember that the Soarer's is hardware) on the EXTRA_F2 key.
 
 [***...Get back***](../it-the-hard-way.html)
