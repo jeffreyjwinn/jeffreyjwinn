@@ -21,37 +21,37 @@ DoD Secret Security Clearance (active)
 
 [https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
 
-<br>
 ## Summary
 
 I believe that every role is a customer service role. Your customers may be outward or inward facing, but the goal is no different; complete customer satisfaction.
 
 I began my career of over 20 years in technology as an individual contributor and have enjoyed the many benefits of working with talented colleagues as well as managing a diverse group of skilled people. I am most proud of my ability to provide solutions as enabled by technology, rather than by focusing simply on the technology for its own sake.
 
-<br>
 ## Experience
 
+### Hayden Beverage, [Boise, ID]
+
+#### Help Desk Administrator, 11/2020 – Present
+
+Provide technical assistance and support for incoming queries and issues related to computer systems, hardware and line of business applications.  Interact with people, whether in-person or remotely, to support and troubleshoot any situation that may be impacting their ability to perform their tasks.
 ### Perspecta (via Experis/ManpowerGroup), [Boise, ID]
 
 #### NMCI Service Desk Agent, 11/2020 – Present
 
 Provide Tier I and II technical software, hardware and network problem resolution for clients by performing problem diagnosis and guiding users through step-by-step solutions or may provide expertise to solve first and second tier technical support issues for end-users of the organization's products and services, including basic PC, PBX, and network software programming.
 
-<br>
 ### Crooked Fence Brewing, [Garden City, ID]
 
 #### Head Brewer, 10/2016 – 11/2020
 
 Solely responsible for all brewing, production and IT operations for a medium-sized local craft beer brewery based in Garden City, Idaho. Technologies utilized included networking, web authoring and maintenance, connectivity specifications, hosting selection and general troubleshooting.
 
-<br>
 ### Yakima Craft Brewing Co., [Yakima, WA]
 
 #### Managing Member, 7/2007 – 08/2016
 
 Founder of the company, responsible for overall management and development of both in-house and outsourced technological solutions designed to streamline and automate every aspect of a growing organization. Obtained bank financing during a severe economic downturn, due in large part to my senior-level management experience in a corporate environment.
 
-<br>
 ### Vesta, [Portland, OR]
 
 #### Director, Information Technology, 09/2006 – 04/2007
@@ -61,7 +61,6 @@ Revitalized the production and infrastructure groups to bring product-focused va
 
 Refocused support culture from task-oriented to service-oriented approach and attitude. Successfully achieved corporate mission to bring embattled departments together in a high pressure environment.
 
-<br>
 ### C-COR, [Beaverton, OR]
 
 #### IT Director, Business Unit, 07/2005 − 02/2006
@@ -71,7 +70,6 @@ Provided leadership for the Business Unit while embracing established corporate 
 
 Presented new solutions to expand range of service and responsiveness for customer base. Scrutinized emerging technologies and restructured existing processes, improving the effectiveness of IT for the company as a whole.
 
-<br>
 ### nCUBE, [Beaverton, OR]
 #### Director, Information Technology, 05/2000 − 01/2005
 
@@ -80,7 +78,7 @@ Restructured existing staff and recruited new talent with a charter of deliverin
 
 Led a team of skilled individuals to provide desktop and network support to the enterprise. Managed budgets and contracts, reduced overall costs during a period of rapid expansion.
 
-<br>
+
 ## Testimonials
 
 > "Jeff was a bastion of calm in very turbulent waters. We were both challenged in a difficult environment where chaos was the standard operating procedure. Jeff inspired me to deliver beyond the expectations that were set upon my group, and allowed me the freedom to tackle issues creatively, without being judgmental. I learned a lot about managing from Jeff, and I would recommend him to anyone."
