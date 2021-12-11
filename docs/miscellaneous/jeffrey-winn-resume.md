@@ -10,33 +10,32 @@
 
 *Senior and Mid-Level Management, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Systems Integration, Process Improvement, Cloud Computing and Storage, Project Management, Strategic Planning*
 
-<br>
 ## Certifications / Other
 
 [Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH)
-<br>
 [CompTIA Security+](https://en.wikipedia.org/wiki/CompTIA#Certifications)
-<br>
-DoD Secret Security Clearance (active)
 
-[https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
+Blog:   [https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
 
 ## Summary
 
 I believe that every role is a customer service role. Your customers may be outward or inward facing, but the goal is no different; complete customer satisfaction.
 
-I began my career of over 20 years in technology as an individual contributor and have enjoyed the many benefits of working with talented colleagues as well as managing a diverse group of skilled people. I am most proud of my ability to provide solutions as enabled by technology, rather than by focusing simply on the technology for its own sake.
+I began my career of more than  25 years in technology as an individual contributor and have enjoyed the many benefits of working with talented colleagues as well as managing a diverse group of skilled people. I am most proud of my ability to provide solutions as enabled by technology, rather than by focusing simply on the technology for its own sake.
 
 ## Experience
 
 ### Hayden Beverage, [Boise, ID]
 
-#### Help Desk Administrator, 11/2020 – Present
+#### Director, IT Security and Infrastructure, 9/2021 – Present
+
+Responsible for all aspects of Information Security throughout the enterprise including defining enterprise architecture standards and oversight of the Service Desk.  Responsible for the implementation, management and ongoing support of critical infrastructure including, but not limited to, data centers, LANs and WANs, VPNs, all endpoint devices, including servers, workstations, and mobile devices, VOIP and front/back-office applications.  Reporting to the Vice President of IT, with a latitude for independent direction of duties.
+#### Help Desk Administrator, 4/2021 – 9/2021
 
 Provide technical assistance and support for incoming queries and issues related to computer systems, hardware and line of business applications.  Interact with people, whether in-person or remotely, to support and troubleshoot any situation that may be impacting their ability to perform their tasks.
 ### Perspecta (via Experis/ManpowerGroup), [Boise, ID]
 
-#### NMCI Service Desk Agent, 11/2020 – Present
+#### NMCI Service Desk Agent, 11/2020 – 4/2021
 
 Provide Tier I and II technical software, hardware and network problem resolution for clients by performing problem diagnosis and guiding users through step-by-step solutions or may provide expertise to solve first and second tier technical support issues for end-users of the organization's products and services, including basic PC, PBX, and network software programming.
 
