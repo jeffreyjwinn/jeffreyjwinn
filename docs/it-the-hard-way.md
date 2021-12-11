@@ -49,5 +49,7 @@
 - [Update Individual Ansible Hosts From Playbook](it-the-hard-way/update-individual-ansible-hosts-from-playbook.md)
 - [Use Flock In Shell](it-the-hard-way/use-flock-in-shell.md)
 - [My Battlecruiser Keyboard](it-the-hard-way/my-battlecruiser-keyboard.md)
+- [Grep Without GREP in Windows](it-the-hard-way/grep-without-grep-windows.md)
+  
 
 [***...Get back***](..)
