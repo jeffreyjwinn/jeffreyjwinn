@@ -51,6 +51,7 @@
 - [My Battlecruiser Keyboard](it-the-hard-way/my-battlecruiser-keyboard.md)
 - [Grep Without GREP in Windows](it-the-hard-way/grep-without-grep-windows.md)
 - [Windows 11 Optional Features Blank](it-the-hard-way/windows11-optional-features-blank.md)
+- [RADAR Pi](it-the-hard-way/radarpi.md)
 
 
 [***...Get back***](..)

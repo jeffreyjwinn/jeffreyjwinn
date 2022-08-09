@@ -25,7 +25,7 @@ I began my career of more than  25 years in technology as an individual contribu
 
 ## Experience
 
-### Hayden Beverage, [Boise, ID]
+### Hayden Beverage Company, [Boise, ID]
 
 #### Director, IT Security and Infrastructure, 9/2021 – Present
 
@@ -43,7 +43,7 @@ Provide Tier I and II technical software, hardware and network problem resolutio
 
 ### Crooked Fence Brewing, [Garden City, ID]
 
-#### Head Brewer, 10/2016 – 11/2020
+#### Head Brewer and Brewmaster, 10/2016 – 11/2020
 
 Solely responsible for all brewing, production and IT operations for a medium-sized local craft beer brewery based in Garden City, Idaho. Technologies utilized included networking, web authoring and maintenance, connectivity specifications, hosting selection and general troubleshooting.
 
