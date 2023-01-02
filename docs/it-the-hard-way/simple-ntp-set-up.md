@@ -69,12 +69,14 @@ From /etc/ntpd.conf _(note **changes**)_:
     # Clients from this (example!) subnet have unlimited access, but only if
     # cryptographically authenticated.
     #restrict 192.168.123.0 mask 255.255.255.0 notrust
+
 **`restrict 192.168.5.0 mask 255.255.255.0 trust`**
 
 
     # If you want to provide time to your local subnet, change the next line.
     # (Again, the address is an example only.)
     #broadcast 192.168.123.255
+
 **`broadcast 192.168.5.255`**
 
     # If you want to listen to time broadcasts on your local subnet, de-comment the
@@ -134,11 +136,13 @@ Edit Config _(note **changes**)_:
 
         # Public NTP servers supporting Network Time Security:
         # server time.cloudflare.com nts
+
 **`server 192.168.5.100 prefer iburst`**
 
         # pool.ntp.org maps to about 1000 low-stratum NTP servers.  Your server will
         # pick a different set every time it starts up.  Please consider joining the
         # pool: <https://www.pool.ntp.org/join.html>
+        
 **`#pool 0.debian.pool.ntp.org iburst`**
 **`#pool 1.debian.pool.ntp.org iburst`**
 **`#pool 2.debian.pool.ntp.org iburst`**
