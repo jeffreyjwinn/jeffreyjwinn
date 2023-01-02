@@ -17,7 +17,7 @@ Edit The Config:
 
     sudo vi /etc/ntp.conf
 
-From /etc/ntpd.conf _(note **changes**)_:
+From /etc/ntpd.conf _(note **`changes`**)_:
 
     # /etc/ntp.conf, configuration for ntpd; see ntp.conf(5) for help
 
@@ -101,7 +101,7 @@ Check Service:
 
     sudo apt install ntpsec
 
-Edit Config _(note **changes**)_:
+Edit Config _(note **`changes`**)_:
 
     sudo vi /etc/ntpsec/ntp.conf
 
@@ -142,7 +142,7 @@ Edit Config _(note **changes**)_:
         # pool.ntp.org maps to about 1000 low-stratum NTP servers.  Your server will
         # pick a different set every time it starts up.  Please consider joining the
         # pool: <https://www.pool.ntp.org/join.html>
-        
+
 **`#pool 0.debian.pool.ntp.org iburst`**
 **`#pool 1.debian.pool.ntp.org iburst`**
 **`#pool 2.debian.pool.ntp.org iburst`**
