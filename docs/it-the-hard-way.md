@@ -52,7 +52,7 @@
 - [Grep Without GREP in Windows](it-the-hard-way/grep-without-grep-windows.md)
 - [Windows 11 Optional Features Blank](it-the-hard-way/windows11-optional-features-blank.md)
 - [RADAR Pi](it-the-hard-way/radarpi.md)
-- [Simple NTP Set Up](simple-ntp-set-up.md)
+- [Simple NTP Set Up](it-the-hard-way/simple-ntp-set-up.md)
 
 
 [***...Get back***](..)
