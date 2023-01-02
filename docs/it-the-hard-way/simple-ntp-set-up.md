@@ -144,8 +144,11 @@ Edit Config _(note **`changes`**)_:
         # pool: <https://www.pool.ntp.org/join.html>
 
 **`#pool 0.debian.pool.ntp.org iburst`**
+
 **`#pool 1.debian.pool.ntp.org iburst`**
+
 **`#pool 2.debian.pool.ntp.org iburst`**
+
 **`#pool 3.debian.pool.ntp.org iburst`**
 
         # Access control configuration; see /usr/share/doc/ntpsec-doc/html/accopt.html
