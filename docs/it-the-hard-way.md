@@ -53,6 +53,7 @@
 - [Windows 11 Optional Features Blank](it-the-hard-way/windows11-optional-features-blank.md)
 - [RADAR Pi](it-the-hard-way/radarpi.md)
 - [Simple NTP Set Up](it-the-hard-way/simple-ntp-set-up.md)
+- [WSL 2 "preview" for Windows 11 and systemd](it-the-hard-way/WSL-2-preview-for-Windows-11-and-systemd.md)
 
 
 [***...Get back***](..)
