@@ -4,11 +4,11 @@
 
 ## Specific Experience
 
-*Linux/BSD/Solaris/HP-UX/CentOS/Windows/MacOS, VMWare/VirtualBox/KVM/Hyper-V/ProxMox, Shell/Bash/PowerShell, Perl/Python, Active Directory/DNS/Bind/LDAP, Networking/LAN/WAN/VPN, UDP/TCP/OSI, NGINX/Apache/ISS, SAN/NAS, NFS/SMB/WebDAV, Docker, Firewalls/IPTables/ipfw/ufw, Cisco IOS, VoIP, Wireless/WiFi, MySQL/MariaDB/MSSQL, MS Office/LibreOffice/OpenOffice, Adobe, Metasploit, Nessus, Wireshark, Nmap/Zenmap, BeEF, Maltego, OSR Framework, exploitdb, Apple IOS/Android*
+*Windows/*nix/macOS, Active Directory, AAD, Azure, Power Automate, Power BI, SSO/SAML, Shell/Bash/PowerShell, Perl/Python, C/C++,  VMWare/VirtualBox/Hyper-V, LDAP, RADIUS, DNS/Bind, Networking/LAN/WAN/VPN, UDP/TCP/OSI, NGINX/Apache/ISS, SAN/NAS, NFS/SMB/WebDAV, Docker, Ansible, Firewalls/IPTables/ipfw/ufw, IPS/ADS, Cisco IOS, VoIP, Wi-Fi, MySQL/MariaDB/MSSQL, MS Office, Adobe,  Meraki, Metasploit, Nessus/Tenable, Wireshark/tcpdump, NMap, BeEF, Maltego, OSR Framework, exploitdb, Apple iOS/Android*
 
 ## Categorical Experience
 
-*Senior and Mid-Level Management, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Systems Integration, Process Improvement, Cloud Computing and Storage, Project Management, Strategic Planning*
+*Senior Management, Team Building, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Architecture, Infrastructure, Systems Integration, Process Improvement, Cloud Computing, Storage, Virtualization, Project Management, Strategic Planning*
 
 ## Certifications / Other
 
@@ -26,6 +26,10 @@ I began my career of more than  25 years in technology as an individual contribu
 ## Experience
 
 ### Hayden Beverage Company, [Boise, ID]
+
+#### Sr. Director of IT, 1/2023 – Present
+
+As head of the IT department, ensure the availability and security of all current and future business data and information systems and structures.  Form and lead teams internal to the department and providing training and mentorship as needed.  Directly and indirectly manage staff with the goal of enhancing professional development and personal growth, collaborating with stakeholders to achieve mutual business goals.  Prioritize objectives and implement strategies to achieve company initiatives and manage and develop relationships with key vendors and partners.
 
 #### Director, IT Security and Infrastructure, 9/2021 – Present
 
@@ -83,14 +87,5 @@ Restructured existing staff and recruited new talent with a charter of deliverin
 
 Led a team of skilled individuals to provide desktop and network support to the enterprise. Managed budgets and contracts, reduced overall costs during a period of rapid expansion.
 
-## Testimonials
-
-> "Jeff was a bastion of calm in very turbulent waters. We were both challenged in a difficult environment where chaos was the standard operating procedure. Jeff inspired me to deliver beyond the expectations that were set upon my group, and allowed me the freedom to tackle issues creatively, without being judgmental. I learned a lot about managing from Jeff, and I would recommend him to anyone."
-
-***- Eric Dencer***, *reported to Jeffrey at Vesta*
-
-> "During my three years at nCUBE Jeff designed and managed all corporate system and network infrastructure. During this time, the corporate and engineering networks ran smoothly due to his diligence, expertise, and attention to performing the latest upgrades and configurations recommended by the vendors. In addition, Jeff went outside-the-box on many occasions to provide expert (and patient) training to those of us who needed to implement and manage complex subnets within the engineering organization. On more than one occasion Jeff volunteered his time and effort to keep the production, test, and integration train rolling smoothly down the tracks; this resulted in greater efficiency, shorter time-to-market and a much better trained workforce within the engineering IT community. I would recommend Jeff for any IT/telephony position and would absolutely work with or for him again."
-
-  ***- Kent Helm***, *worked with Jeffrey at nCUBE*
-
-[***...Get back***](../miscellaneous.html)
+##
+[**...Get back**](../miscellaneous.html)
