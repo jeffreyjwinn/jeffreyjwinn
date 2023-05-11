@@ -2,18 +2,17 @@
 
 *jeffreyjwinn AT pm.me*
 
-## Specific Experience
-
-*Windows/*nix/macOS, Active Directory, AAD, Azure, Power Automate, Power BI, SSO/SAML, Shell/Bash/PowerShell, Perl/Python, C/C++,  VMWare/VirtualBox/Hyper-V, LDAP, RADIUS, DNS/Bind, Networking/LAN/WAN/VPN, UDP/TCP/OSI, NGINX/Apache/ISS, SAN/NAS, NFS/SMB/WebDAV, Docker, Ansible, Firewalls/IPTables/ipfw/ufw, IPS/ADS, Cisco IOS, VoIP, Wi-Fi, MySQL/MariaDB/MSSQL, MS Office, Adobe,  Meraki, Metasploit, Nessus/Tenable, Wireshark/tcpdump, NMap, BeEF, Maltego, OSR Framework, exploitdb, Apple iOS/Android*
-
 ## Categorical Experience
 
 *Senior Management, Team Building, Customer Service, Administration, IT Security, Enterprise Solutions, Troubleshooting, Systems Implementation, Architecture, Infrastructure, Systems Integration, Process Improvement, Cloud Computing, Storage, Virtualization, Project Management, Strategic Planning*
 
 ## Certifications / Other
 
-[Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker) (CEH)
-[CompTIA Security+](https://en.wikipedia.org/wiki/CompTIA#Certifications)
+[CEH - Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker)
+[CSAP - CompTIA Security Analytics Professional](https://www.credly.com/org/comptia/badge/comptia-security-analytics-professional-csap-stackable-certification)
+[CompTIA Security+](https://www.comptia.org/certifications/security)
+[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+
 
 Blog:   [https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
 
