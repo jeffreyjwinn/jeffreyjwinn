@@ -9,8 +9,11 @@
 ## Certifications / Other
 
 [CEH - Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker)
+
 [CSAP - CompTIA Security Analytics Professional](https://www.credly.com/org/comptia/badge/comptia-security-analytics-professional-csap-stackable-certification)
+
 [CompTIA Security+](https://www.comptia.org/certifications/security)
+
 [CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
 
 
@@ -26,7 +29,7 @@ I began my career of more than  25 years in technology as an individual contribu
 
 ### Hayden Beverage Company, [Boise, ID]
 
-#### Sr. Director of IT, 1/2023 – Present
+#### Senior Director of IT, 1/2023 – Present
 
 As head of the IT department, ensure the availability and security of all current and future business data and information systems and structures.  Form and lead teams internal to the department and providing training and mentorship as needed.  Directly and indirectly manage staff with the goal of enhancing professional development and personal growth, collaborating with stakeholders to achieve mutual business goals.  Prioritize objectives and implement strategies to achieve company initiatives and manage and develop relationships with key vendors and partners.
 
@@ -50,7 +53,7 @@ Provide Tier I and II technical software, hardware and network problem resolutio
 
 Solely responsible for all brewing, production and IT operations for a medium-sized local craft beer brewery based in Garden City, Idaho. Technologies utilized included networking, web authoring and maintenance, connectivity specifications, hosting selection and general troubleshooting.
 
-### Yakima Craft Brewing Co., [Yakima, WA]
+### Yakima Craft Brewing Company, [Yakima, WA]
 
 #### Managing Member, 7/2007 – 08/2016
 
