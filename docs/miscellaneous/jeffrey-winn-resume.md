@@ -8,13 +8,10 @@
 
 ## Certifications / Other
 
-[CEH - Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker)
-
-[CSAP - CompTIA Security Analytics Professional](https://www.credly.com/org/comptia/badge/comptia-security-analytics-professional-csap-stackable-certification)
-
-[CompTIA Security+](https://www.comptia.org/certifications/security)
-
-[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)
+[CEH - Certified Ethical Hacker](https://en.wikipedia.org/wiki/Certified_Ethical_Hacker)  
+[CSAP - CompTIA Security Analytics Professional](https://www.credly.com/org/comptia/badge/comptia-security-analytics-professional-csap-stackable-certification)  
+[CompTIA Security+](https://www.comptia.org/certifications/security)  
+[CompTIA CySA+](https://www.comptia.org/certifications/cybersecurity-analyst)  
 
 
 Blog:   [https://jeffreyjwinn.github.io/](https://jeffreyjwinn.github.io/)
