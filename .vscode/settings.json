@@ -2,5 +2,6 @@
     "cSpell.words": [
         "wsmid"
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "ansible.python.interpreterPath": "c:\\Users\\jeffr\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
 }
